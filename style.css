@@ -1,0 +1,33 @@
+/* Styling Webpage */
+
+body{
+    background-color: #E2E4E5;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.5em;
+    text-shadow: 1px 1px 2px red;
+    padding: 10px 0px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ECEFF1;
+}
+
+figure{
+    display: inline-block;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+figure:hover{
+    color: red;
+    background-color: #ECEFF1;
+}
+
+figcaption{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 1.5em;
+}
+
